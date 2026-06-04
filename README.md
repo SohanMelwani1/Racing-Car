@@ -13,3 +13,10 @@ use any electrical tape to stick the battery and the switch to the car the way y
 
 to start the car you can turn on the switch(make sure all of the motors are placed the right way, moving forwards)
 I have made this car to explore on electronics with 3d models. 
+The Model should look like this once it is assembled:
+
+<img width="1015" height="543" alt="image" src="https://github.com/user-attachments/assets/4cdbe486-ea3b-4620-8f19-401ac798e567" />
+
+Credits:
+Fusion 360
+Hack club Macondo
