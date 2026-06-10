@@ -3,9 +3,19 @@ A racing car inspired by NASCAR which moves forward
 
 A racing car inspired by NASCAR which only moves forward
 
+Instructions:
+
+Remove supports 
+
+attach top part of car to bottom part car (you can use superglue, it is optional but highly recomended) Before supergluing together make sure that it is perfectly alligned in place.
+
 Attach each motor to each wheel (make sure that the big 2 wheels are at the back and the small 2 wheels are at the front) 
 
+If motors don't attach you can print a 1x1x1cm cube (if not using the exact motor) to make sure that the wheels touch the ground
+
 connect all of the motors with a wire to a switch(the positive end, would recommend you hand solder it), connect the negative end of all motors directly to any 3volt battery which you can fit in the bottom of the car.
+
+Stick the motors onto thier places
 
 you can connect the 1K resistor to to from the switch directly to the battery like this. (I made a rough sketch on thinker cad for the connection). 
 
