@@ -17,9 +17,11 @@ connect all of the motors with a wire to a switch(the positive end, would recomm
 
 Stick the motors onto thier places
 
+(the use of the front 2 motors are so that they hold the wheels in place able to move the same way and also so that you can make it faster by connecting the front 2)
+
 you can connect the 1K resistor to to from the switch directly to the battery like this. (I made a rough sketch on thinker cad for the connection). 
 
-<img width="736" height="770" alt="Screenshot 2026-06-03 180942" src="https://github.com/user-attachments/assets/2e008197-f7be-4882-8707-fe86267ddc45" />
+<img width="729" height="700" alt="image" src="https://github.com/user-attachments/assets/7be1c483-8872-4afc-b9e6-b098c801baae" />
 
 use any electrical tape to stick the battery and the switch to the car the way you are comfortable placing it.
 
